@@ -6,6 +6,7 @@ import (
 	"os"
 )
 
+// things
 var originUnit string
 var originValue float64
 
